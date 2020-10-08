@@ -39,7 +39,7 @@ abstract class Conta
         }
     }
 
-    /* Método saca o valor da conta */
+    /* Método sacar um valor da conta */
 
     public function saque($valor)
     {
